@@ -1,0 +1,38 @@
+body{
+    background: rgb(209, 204, 204);
+    text-align: center;
+    background-image:url(./wallpaperflare.com_wallpaper\ \(5\).jpg) ;
+    
+}
+h1{
+
+    height: 70px;
+    width: 1000px;
+    background-color: rgba(220, 188, 240, 0.636);
+    font-size: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: auto;
+    text-align: center;
+    margin: auto;
+   margin-bottom: 50px;
+    
+}
+
+form{
+    shape-image-threshold: rgb(66, 194, 85);
+    border-radius: 10px;
+    border-style: ;
+    border-width: 10px;
+}
+h2{
+    text-align: center;
+    border-style:groove;
+    border-width: 20px;
+}
+.container
+{
+    width: 1000px;
+    margin: auto;
+    background-color: rgba(220, 188, 240, 0.636);
+}
